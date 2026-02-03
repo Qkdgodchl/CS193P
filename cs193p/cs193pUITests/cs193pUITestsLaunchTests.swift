@@ -1,13 +1,13 @@
 //
-//  cs193pUITestsLaunchTests.swift
-//  cs193pUITests
+//  CS193PUITestsLaunchTests.swift
+//  CS193PUITests
 //
 //  Created by 이영민 on 2/4/26.
 //
 
 import XCTest
 
-final class cs193pUITestsLaunchTests: XCTestCase {
+final class CS193PUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

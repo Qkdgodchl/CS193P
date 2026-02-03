@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  cs193p
+//  CS193P
 //
 //  Created by 이영민 on 2/4/26.
 //
@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("fuck you!")
+            Text("Hello, world!")
         }
         .padding()
     }

@@ -1,13 +1,13 @@
 //
-//  cs193pUITests.swift
-//  cs193pUITests
+//  CS193PUITests.swift
+//  CS193PUITests
 //
 //  Created by 이영민 on 2/4/26.
 //
 
 import XCTest
 
-final class cs193pUITests: XCTestCase {
+final class CS193PUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

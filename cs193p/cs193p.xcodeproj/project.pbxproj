@@ -7,62 +7,62 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		04A99D192F328F68008B8599 /* PBXContainerItemProxy */ = {
+		0448A8192F32978200B21843 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 04A99D032F328F66008B8599 /* Project object */;
+			containerPortal = 0448A8032F32978100B21843 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 04A99D0A2F328F66008B8599;
-			remoteInfo = cs193p;
+			remoteGlobalIDString = 0448A80A2F32978100B21843;
+			remoteInfo = CS193P;
 		};
-		04A99D232F328F68008B8599 /* PBXContainerItemProxy */ = {
+		0448A8232F32978200B21843 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 04A99D032F328F66008B8599 /* Project object */;
+			containerPortal = 0448A8032F32978100B21843 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 04A99D0A2F328F66008B8599;
-			remoteInfo = cs193p;
+			remoteGlobalIDString = 0448A80A2F32978100B21843;
+			remoteInfo = CS193P;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		04A99D0B2F328F66008B8599 /* cs193p.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = cs193p.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		04A99D182F328F68008B8599 /* cs193pTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cs193pTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		04A99D222F328F68008B8599 /* cs193pUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cs193pUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0448A80B2F32978100B21843 /* CS193P.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CS193P.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0448A8182F32978200B21843 /* CS193PTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CS193PTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0448A8222F32978200B21843 /* CS193PUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CS193PUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		04A99D0D2F328F66008B8599 /* cs193p */ = {
+		0448A80D2F32978100B21843 /* CS193P */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = cs193p;
+			path = CS193P;
 			sourceTree = "<group>";
 		};
-		04A99D1B2F328F68008B8599 /* cs193pTests */ = {
+		0448A81B2F32978200B21843 /* CS193PTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = cs193pTests;
+			path = CS193PTests;
 			sourceTree = "<group>";
 		};
-		04A99D252F328F68008B8599 /* cs193pUITests */ = {
+		0448A8252F32978200B21843 /* CS193PUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = cs193pUITests;
+			path = CS193PUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		04A99D082F328F66008B8599 /* Frameworks */ = {
+		0448A8082F32978100B21843 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		04A99D152F328F68008B8599 /* Frameworks */ = {
+		0448A8152F32978200B21843 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		04A99D1F2F328F68008B8599 /* Frameworks */ = {
+		0448A81F2F32978200B21843 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		04A99D022F328F66008B8599 = {
+		0448A8022F32978100B21843 = {
 			isa = PBXGroup;
 			children = (
-				04A99D0D2F328F66008B8599 /* cs193p */,
-				04A99D1B2F328F68008B8599 /* cs193pTests */,
-				04A99D252F328F68008B8599 /* cs193pUITests */,
-				04A99D0C2F328F66008B8599 /* Products */,
+				0448A80D2F32978100B21843 /* CS193P */,
+				0448A81B2F32978200B21843 /* CS193PTests */,
+				0448A8252F32978200B21843 /* CS193PUITests */,
+				0448A80C2F32978100B21843 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		04A99D0C2F328F66008B8599 /* Products */ = {
+		0448A80C2F32978100B21843 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				04A99D0B2F328F66008B8599 /* cs193p.app */,
-				04A99D182F328F68008B8599 /* cs193pTests.xctest */,
-				04A99D222F328F68008B8599 /* cs193pUITests.xctest */,
+				0448A80B2F32978100B21843 /* CS193P.app */,
+				0448A8182F32978200B21843 /* CS193PTests.xctest */,
+				0448A8222F32978200B21843 /* CS193PUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		04A99D0A2F328F66008B8599 /* cs193p */ = {
+		0448A80A2F32978100B21843 /* CS193P */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 04A99D2C2F328F68008B8599 /* Build configuration list for PBXNativeTarget "cs193p" */;
+			buildConfigurationList = 0448A82C2F32978200B21843 /* Build configuration list for PBXNativeTarget "CS193P" */;
 			buildPhases = (
-				04A99D072F328F66008B8599 /* Sources */,
-				04A99D082F328F66008B8599 /* Frameworks */,
-				04A99D092F328F66008B8599 /* Resources */,
+				0448A8072F32978100B21843 /* Sources */,
+				0448A8082F32978100B21843 /* Frameworks */,
+				0448A8092F32978100B21843 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				04A99D0D2F328F66008B8599 /* cs193p */,
+				0448A80D2F32978100B21843 /* CS193P */,
 			);
-			name = cs193p;
+			name = CS193P;
 			packageProductDependencies = (
 			);
-			productName = cs193p;
-			productReference = 04A99D0B2F328F66008B8599 /* cs193p.app */;
+			productName = CS193P;
+			productReference = 0448A80B2F32978100B21843 /* CS193P.app */;
 			productType = "com.apple.product-type.application";
 		};
-		04A99D172F328F68008B8599 /* cs193pTests */ = {
+		0448A8172F32978200B21843 /* CS193PTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 04A99D2F2F328F68008B8599 /* Build configuration list for PBXNativeTarget "cs193pTests" */;
+			buildConfigurationList = 0448A82F2F32978200B21843 /* Build configuration list for PBXNativeTarget "CS193PTests" */;
 			buildPhases = (
-				04A99D142F328F68008B8599 /* Sources */,
-				04A99D152F328F68008B8599 /* Frameworks */,
-				04A99D162F328F68008B8599 /* Resources */,
+				0448A8142F32978200B21843 /* Sources */,
+				0448A8152F32978200B21843 /* Frameworks */,
+				0448A8162F32978200B21843 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				04A99D1A2F328F68008B8599 /* PBXTargetDependency */,
+				0448A81A2F32978200B21843 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				04A99D1B2F328F68008B8599 /* cs193pTests */,
+				0448A81B2F32978200B21843 /* CS193PTests */,
 			);
-			name = cs193pTests;
+			name = CS193PTests;
 			packageProductDependencies = (
 			);
-			productName = cs193pTests;
-			productReference = 04A99D182F328F68008B8599 /* cs193pTests.xctest */;
+			productName = CS193PTests;
+			productReference = 0448A8182F32978200B21843 /* CS193PTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		04A99D212F328F68008B8599 /* cs193pUITests */ = {
+		0448A8212F32978200B21843 /* CS193PUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 04A99D322F328F68008B8599 /* Build configuration list for PBXNativeTarget "cs193pUITests" */;
+			buildConfigurationList = 0448A8322F32978200B21843 /* Build configuration list for PBXNativeTarget "CS193PUITests" */;
 			buildPhases = (
-				04A99D1E2F328F68008B8599 /* Sources */,
-				04A99D1F2F328F68008B8599 /* Frameworks */,
-				04A99D202F328F68008B8599 /* Resources */,
+				0448A81E2F32978200B21843 /* Sources */,
+				0448A81F2F32978200B21843 /* Frameworks */,
+				0448A8202F32978200B21843 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				04A99D242F328F68008B8599 /* PBXTargetDependency */,
+				0448A8242F32978200B21843 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				04A99D252F328F68008B8599 /* cs193pUITests */,
+				0448A8252F32978200B21843 /* CS193PUITests */,
 			);
-			name = cs193pUITests;
+			name = CS193PUITests;
 			packageProductDependencies = (
 			);
-			productName = cs193pUITests;
-			productReference = 04A99D222F328F68008B8599 /* cs193pUITests.xctest */;
+			productName = CS193PUITests;
+			productReference = 0448A8222F32978200B21843 /* CS193PUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		04A99D032F328F66008B8599 /* Project object */ = {
+		0448A8032F32978100B21843 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2620;
 				LastUpgradeCheck = 2620;
 				TargetAttributes = {
-					04A99D0A2F328F66008B8599 = {
+					0448A80A2F32978100B21843 = {
 						CreatedOnToolsVersion = 26.2;
 					};
-					04A99D172F328F68008B8599 = {
+					0448A8172F32978200B21843 = {
 						CreatedOnToolsVersion = 26.2;
-						TestTargetID = 04A99D0A2F328F66008B8599;
+						TestTargetID = 0448A80A2F32978100B21843;
 					};
-					04A99D212F328F68008B8599 = {
+					0448A8212F32978200B21843 = {
 						CreatedOnToolsVersion = 26.2;
-						TestTargetID = 04A99D0A2F328F66008B8599;
+						TestTargetID = 0448A80A2F32978100B21843;
 					};
 				};
 			};
-			buildConfigurationList = 04A99D062F328F66008B8599 /* Build configuration list for PBXProject "cs193p" */;
+			buildConfigurationList = 0448A8062F32978100B21843 /* Build configuration list for PBXProject "CS193P" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 04A99D022F328F66008B8599;
+			mainGroup = 0448A8022F32978100B21843;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 04A99D0C2F328F66008B8599 /* Products */;
+			productRefGroup = 0448A80C2F32978100B21843 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				04A99D0A2F328F66008B8599 /* cs193p */,
-				04A99D172F328F68008B8599 /* cs193pTests */,
-				04A99D212F328F68008B8599 /* cs193pUITests */,
+				0448A80A2F32978100B21843 /* CS193P */,
+				0448A8172F32978200B21843 /* CS193PTests */,
+				0448A8212F32978200B21843 /* CS193PUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		04A99D092F328F66008B8599 /* Resources */ = {
+		0448A8092F32978100B21843 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		04A99D162F328F68008B8599 /* Resources */ = {
+		0448A8162F32978200B21843 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		04A99D202F328F68008B8599 /* Resources */ = {
+		0448A8202F32978200B21843 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		04A99D072F328F66008B8599 /* Sources */ = {
+		0448A8072F32978100B21843 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		04A99D142F328F68008B8599 /* Sources */ = {
+		0448A8142F32978200B21843 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		04A99D1E2F328F68008B8599 /* Sources */ = {
+		0448A81E2F32978200B21843 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		04A99D1A2F328F68008B8599 /* PBXTargetDependency */ = {
+		0448A81A2F32978200B21843 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 04A99D0A2F328F66008B8599 /* cs193p */;
-			targetProxy = 04A99D192F328F68008B8599 /* PBXContainerItemProxy */;
+			target = 0448A80A2F32978100B21843 /* CS193P */;
+			targetProxy = 0448A8192F32978200B21843 /* PBXContainerItemProxy */;
 		};
-		04A99D242F328F68008B8599 /* PBXTargetDependency */ = {
+		0448A8242F32978200B21843 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 04A99D0A2F328F66008B8599 /* cs193p */;
-			targetProxy = 04A99D232F328F68008B8599 /* PBXContainerItemProxy */;
+			target = 0448A80A2F32978100B21843 /* CS193P */;
+			targetProxy = 0448A8232F32978200B21843 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		04A99D2A2F328F68008B8599 /* Debug */ = {
+		0448A82A2F32978200B21843 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -330,7 +330,7 @@
 			};
 			name = Debug;
 		};
-		04A99D2B2F328F68008B8599 /* Release */ = {
+		0448A82B2F32978200B21843 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -383,14 +383,13 @@
 			};
 			name = Release;
 		};
-		04A99D2D2F328F68008B8599 /* Debug */ = {
+		0448A82D2F32978200B21843 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = MSMCD73G25;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
@@ -410,7 +409,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 26.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = gazua.cs193p;
+				PRODUCT_BUNDLE_IDENTIFIER = gazua.CS193P;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
@@ -426,14 +425,13 @@
 			};
 			name = Debug;
 		};
-		04A99D2E2F328F68008B8599 /* Release */ = {
+		0448A82E2F32978200B21843 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = MSMCD73G25;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
@@ -453,7 +451,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 26.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = gazua.cs193p;
+				PRODUCT_BUNDLE_IDENTIFIER = gazua.CS193P;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
@@ -469,7 +467,7 @@
 			};
 			name = Release;
 		};
-		04A99D302F328F68008B8599 /* Debug */ = {
+		0448A8302F32978200B21843 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -479,7 +477,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
 				MACOSX_DEPLOYMENT_TARGET = 26.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = gazua.cs193pTests;
+				PRODUCT_BUNDLE_IDENTIFIER = gazua.CS193PTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
@@ -489,12 +487,12 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/cs193p.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/cs193p";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CS193P.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/CS193P";
 				XROS_DEPLOYMENT_TARGET = 26.2;
 			};
 			name = Debug;
 		};
-		04A99D312F328F68008B8599 /* Release */ = {
+		0448A8312F32978200B21843 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -504,7 +502,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
 				MACOSX_DEPLOYMENT_TARGET = 26.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = gazua.cs193pTests;
+				PRODUCT_BUNDLE_IDENTIFIER = gazua.CS193PTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
@@ -514,12 +512,12 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/cs193p.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/cs193p";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CS193P.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/CS193P";
 				XROS_DEPLOYMENT_TARGET = 26.2;
 			};
 			name = Release;
 		};
-		04A99D332F328F68008B8599 /* Debug */ = {
+		0448A8332F32978200B21843 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -528,7 +526,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
 				MACOSX_DEPLOYMENT_TARGET = 26.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = gazua.cs193pUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = gazua.CS193PUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
@@ -538,12 +536,12 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_TARGET_NAME = cs193p;
+				TEST_TARGET_NAME = CS193P;
 				XROS_DEPLOYMENT_TARGET = 26.2;
 			};
 			name = Debug;
 		};
-		04A99D342F328F68008B8599 /* Release */ = {
+		0448A8342F32978200B21843 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -552,7 +550,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
 				MACOSX_DEPLOYMENT_TARGET = 26.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = gazua.cs193pUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = gazua.CS193PUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
@@ -562,7 +560,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_TARGET_NAME = cs193p;
+				TEST_TARGET_NAME = CS193P;
 				XROS_DEPLOYMENT_TARGET = 26.2;
 			};
 			name = Release;
@@ -570,43 +568,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		04A99D062F328F66008B8599 /* Build configuration list for PBXProject "cs193p" */ = {
+		0448A8062F32978100B21843 /* Build configuration list for PBXProject "CS193P" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				04A99D2A2F328F68008B8599 /* Debug */,
-				04A99D2B2F328F68008B8599 /* Release */,
+				0448A82A2F32978200B21843 /* Debug */,
+				0448A82B2F32978200B21843 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		04A99D2C2F328F68008B8599 /* Build configuration list for PBXNativeTarget "cs193p" */ = {
+		0448A82C2F32978200B21843 /* Build configuration list for PBXNativeTarget "CS193P" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				04A99D2D2F328F68008B8599 /* Debug */,
-				04A99D2E2F328F68008B8599 /* Release */,
+				0448A82D2F32978200B21843 /* Debug */,
+				0448A82E2F32978200B21843 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		04A99D2F2F328F68008B8599 /* Build configuration list for PBXNativeTarget "cs193pTests" */ = {
+		0448A82F2F32978200B21843 /* Build configuration list for PBXNativeTarget "CS193PTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				04A99D302F328F68008B8599 /* Debug */,
-				04A99D312F328F68008B8599 /* Release */,
+				0448A8302F32978200B21843 /* Debug */,
+				0448A8312F32978200B21843 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		04A99D322F328F68008B8599 /* Build configuration list for PBXNativeTarget "cs193pUITests" */ = {
+		0448A8322F32978200B21843 /* Build configuration list for PBXNativeTarget "CS193PUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				04A99D332F328F68008B8599 /* Debug */,
-				04A99D342F328F68008B8599 /* Release */,
+				0448A8332F32978200B21843 /* Debug */,
+				0448A8342F32978200B21843 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 04A99D032F328F66008B8599 /* Project object */;
+	rootObject = 0448A8032F32978100B21843 /* Project object */;
 }
